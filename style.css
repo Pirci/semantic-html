@@ -1,3 +1,115 @@
-body {
-    background-color: pink;
+* {
+  padding: 5px;
+  margin: 5px;
+}
+
+.info {
+  text-align: left;
+  font-size: 2.1rem;
+}
+
+.container,
+header,
+.nav,
+.wrapper,
+.sidebar,
+.content,
+footer {
+  border: solid 10px darkgrey;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+}
+
+/*
+********** Main Page Container Style **********
+*/
+
+.container {
+  margin: 0 auto;
+  max-width: 100%;
+  height: 100%;
+  border: solid 10px darkgrey;
+  background-color: orange;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+/*
+********** Header Style **********
+*/
+
+header {
+  max-width: 96%;
+  margin: auto;
+  max-height: 150px;
+  background-color: lightgrey;
+}
+
+h2 {
+  font-size: 2.6rem;
+}
+
+h3 {
+  font-size: 2.3rem;
+}
+
+.nav {
+  max-width: 94%;
+  margin: auto;
+  max-height: 40px;
+}
+
+/*
+********** Wrapper Style **********
+*/
+
+.wrapper {
+  max-width: 96%;
+  margin: auto;
+  max-height: 450px;
+  background-color: lightgrey;
+}
+
+section {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h4 {
+  font-size: 1.9rem;
+}
+
+.content {
+  width: 40%;
+  margin-left: 40px;
+  min-height: 300px;
+}
+
+.sidebar {
+  width: 40%;
+  margin-right: 40px;
+}
+
+.sub-content-1,
+.sub-content-2 {
+  border: solid 5px darkgrey;
+}
+
+/*
+********** Footer Style **********
+*/
+
+footer {
+  max-width: 96%;
+  margin: auto;
+  background-color: lightgrey;
 }
