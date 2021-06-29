@@ -8,13 +8,14 @@ From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
 
 Preview: https://pirci.github.io/semantic-html/
 
-<img width="1679" alt="Semantic UI website" src="">
+![homepage](https://user-images.githubusercontent.com/43238947/123859753-518acb80-d925-11eb-9527-32a579d72ca1.png)
 
 ## What I Learned:
 
-<!-- - Table element implement and style for best visibility. -->
-<!-- - Semantic Elements in HTML used (header, footler) -->
-<!-- - CSS selectors used (:first-child) -->
+- Ability to place divs and elements on the page.
+- Semantic Elements in HTML used (header, footler, section etc.)
+- Used Flexbox to place divs.container.
+- Responsive website has been prepared
 
 ## Possible Improvements
 
