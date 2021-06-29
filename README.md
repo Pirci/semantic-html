@@ -8,7 +8,8 @@ From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
 
 Preview: https://pirci.github.io/semantic-html/
 
-![homepage](https://user-images.githubusercontent.com/43238947/123859753-518acb80-d925-11eb-9527-32a579d72ca1.png)
+![homepage]![Screenshot 2021-06-29 at 22 06 36](https://user-images.githubusercontent.com/43238947/123860540-556b1d80-d926-11eb-9724-79181cec5ac0.png)
+
 
 ## What I Learned:
 
