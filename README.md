@@ -1,8 +1,6 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Semantic Page
 
-> HTML & CSS #4th Homework Project (Semantic HTML).
-
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
+> HTML & CSS Semantic HTML Project
 
 ## Live Demo
 
